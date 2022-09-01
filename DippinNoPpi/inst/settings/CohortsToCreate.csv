@@ -1,0 +1,10 @@
+atlasId,atlasName,cohortId,name
+1259,"[SCY]Prevalent  PPI user sarting clopidogrel ssi ",1259,SCYPrevalent__PPI_user_sarting_clopidogrel_ssi_
+1260,"[SCY]Non-PPI user sarting clopidogrel ssi ",1260,SCYNonPPI_user_sarting_clopidogrel_ssi_
+1031,Death outcome ssi 0831,1031,Death_outcome_ssi_0831
+1032,MI  event 0831,1032,MI__event_0831
+1214,MI  event  ER inpatient ssi 0630,1214,MI__event__ER_inpatient_ssi_0630
+1220,ischemic stroke ssi,1220,ischemic_stroke_ssi
+1221,ischemic stroke ssi_ER inpatient,1221,ischemic_stroke_ssi_ER_inpatient
+1261,[MACE] MI  ischemic stroke death ssi,1261,MACE_MI__ischemic_stroke_death_ssi
+1262,[MACE} MI  ischemic stroke death  ER inpatient ssi,1262,MACE_MI__ischemic_stroke_death__ER_inpatient_ssi
